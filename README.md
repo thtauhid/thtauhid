@@ -1,5 +1,15 @@
-### Hi there 👋
+<h1>Some boring stats;</h1>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thtauhid&hide_border=true"
+/>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=thtauhid&hide_border=true&show_icons=true&count_private=true"
+  />
 
+
+---
 <!--
 **thtauhid/thtauhid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
