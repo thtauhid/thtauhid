@@ -1,47 +1,37 @@
 <div>
   <h1>Bio</h1>
   <!--Some bio here. lol-->
-  - 🔭 I’m currently working on ...
+  🔭 I’m currently working on: 
   
-  - 🌱 I’m currently learning ...
+  🌱 I’m currently learning: React Native
+   
+  📫 How to reach me: ...
   
-  - 👯 I’m looking to collaborate on ...
+  😄 Pronouns: ...
   
-  - 🤔 I’m looking for help with ...
-  
-  - 💬 Ask me about ...
-  
-  - 📫 How to reach me: ...
-  
-  - 😄 Pronouns: ...
-  
-  - ⚡ Fun fact: ...
+  ⚡ Fun fact: ...
   
 </div>
 
 ---
 
-<h1>Some boring stats;</h1>
-<a href="https://github.com/thtauhid/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thtauhid&hide_border=true" />
-</a>
-
-<a href="https://github.com/thtauhid/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thtauhid&hide_border=true&show_icons=true&count_private=true" />
-</a>
+<div>
+  <h1>Contact me</h1>
+  
+</div>
 
 ---
-<!--
-**thtauhid/thtauhid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  <h1>Some boring stats;</h1>
+  
+  <a href="https://github.com/thtauhid/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thtauhid&hide_border=true" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/thtauhid/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thtauhid&hide_border=true&show_icons=true&count_private=true" />
+  </a>
+  
+</div>
+
