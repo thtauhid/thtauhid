@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/STILL%20UNDER%20CONSTRUCTION-red?style=for-the-badge&logoColor=white" />
 <div>
   <h1>Bio</h1>
   Yet to write!
