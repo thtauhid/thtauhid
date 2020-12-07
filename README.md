@@ -1,5 +1,6 @@
 <div>
   <h1>Bio</h1>
+  Yet to write!
   <!--Some bio here. lol-->
   
 <!--   🔭 I’m currently working on: 
@@ -29,6 +30,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
+
+---
+
+<div>
+  
+  <h1>Tools</h1>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white" />
+  
+</div>
+
+---
 
 <div>
   <h1>Contact me</h1>
