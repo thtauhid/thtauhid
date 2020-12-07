@@ -1,7 +1,9 @@
 <div>
   <h1>Bio</h1>
   <!--Some bio here. lol-->
-  🔭 I’m currently working on: 
+  
+<!--   🔭 I’m currently working on: 
+  
   
   🌱 I’m currently learning: React Native
    
@@ -9,7 +11,7 @@
   
   😄 Pronouns: ...
   
-  ⚡ Fun fact: ...
+  ⚡ Fun fact: ... -->
   
 </div>
 
@@ -17,7 +19,9 @@
 
 <div>
   <h1>Contact me</h1>
-  
+  <a href="mailto:thtauhid.71@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
