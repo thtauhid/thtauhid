@@ -1,7 +1,9 @@
-<img src="https://img.shields.io/badge/UNDER%20CONSTRUCTION-red?style=for-the-badge&logoColor=white" />
 <div>
   <h1>Bio</h1>
-  Yet to write!
+  <img src="https://img.shields.io/badge/UNDER%20CONSTRUCTION-red?style=for-the-badge&logoColor=white" />
+
+  <h2>Education</h2>
+  Computer Engineering - Marwadi University
   <!--Some bio here. lol-->
   
 <!--   🔭 I’m currently working on: 
