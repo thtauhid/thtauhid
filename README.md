@@ -2,11 +2,15 @@
   <h1>Bio</h1>
   <img src="https://img.shields.io/badge/UNDER%20CONSTRUCTION-red?style=for-the-badge&logoColor=white" />
 
+<!--Some bio here. lol-->
+
+<!--  
   <h2>Education</h2>
   Computer Engineering - Marwadi University
-  <!--Some bio here. lol-->
+-->
   
-<!--   🔭 I’m currently working on: 
+<!--
+🔭 I’m currently working on: 
   
   
   🌱 I’m currently learning: React Native
@@ -15,7 +19,9 @@
   
   😄 Pronouns: ...
   
-  ⚡ Fun fact: ... -->
+  ⚡ Fun fact: ... 
+-->
+
   
 </div>
 
