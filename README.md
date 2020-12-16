@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe xd-FF26BE?style=for-the-badge&logo=Git&logoColor=white" />
   
 </div>
 
